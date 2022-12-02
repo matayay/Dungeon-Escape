@@ -3,7 +3,8 @@
 ------------------------
 **HOW TO COMPILE AND RUN**
 ------------------------
-Compile: g++ -std=c++17 project3.cpp Game.cpp Merchant.cpp Inventory.cpp Party.cpp Member.cpp Dungeon.cpp Map.cpp Monster.cpp Riddles.cpp 
+Compile: g++ -std=c++17 project3.cpp Game.cpp Merchant.cpp Inventory.cpp Party.cpp Member.cpp Dungeon.cpp Map.cpp Monster.cpp Riddles.cpp
+
 Run: ./a.out
 ------------------------
 **DEPENDENCIES**
