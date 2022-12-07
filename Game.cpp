@@ -1179,11 +1179,6 @@ bool Game::monsterEncounter( bool room )
                     damage(getMembers()[i].getName(), 1);
                 }
             }
-
-            if ( randomNumbers(1, 2) == 2 )
-            {
-                misfortunes(false);
-            }
         }
 
         else
