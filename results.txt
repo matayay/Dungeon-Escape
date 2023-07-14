@@ -1,0 +1,17 @@
+
+Final Game Stats:
+Party Leader: Tai
+Remaining Members: 
+one
+two
+three
+four
+
+Number of rooms cleared: 0
+Gold pieces remaining: 100
+Treasure items:
+Silver ring: 1
+
+Number of spaces explored: 1
+Number of monsters defeated: 0
+Number of turns elapsed: 5
